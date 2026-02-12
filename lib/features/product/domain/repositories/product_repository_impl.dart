@@ -73,14 +73,40 @@ class ProductRepositoryImpl implements ProductRepository {
     return [
       ProductModel(
         id: '1',
-        name: 'TEST PRODUCT',
-        category: 'TEST PRODUCT',
+        name: 'Wireless Headphones',
+        category: 'Electronics',
         price: 199.99,
         stock: 50,
-        description: 'TEST PRODUCT',
-        imageUrl: '',
+        description: 'Premium wireless headphones with noise cancellation',
+        imageUrl: 'https://picsum.photos/200',
       ),
-      
+      ProductModel(
+        id: '2',
+        name: 'Smart Watch',
+        category: 'Electronics',
+        price: 299.99,
+        stock: 0,
+        description: 'Advanced smart watch with health monitoring',
+        imageUrl: 'https://picsum.photos/201',
+      ),
+      ProductModel(
+        id: '3',
+        name: 'Laptop',
+        category: 'Electronics',
+        price: 1299.99,
+        stock: 15,
+        description: 'High-performance laptop for professionals',
+        imageUrl: 'https://picsum.photos/202',
+      ),
+      ProductModel(
+        id: '4',
+        name: 'Desk Chair',
+        category: 'Furniture',
+        price: 399.99,
+        stock: 25,
+        description: 'Ergonomic office chair',
+        imageUrl: 'https://picsum.photos/203',
+      ),
     ];
   }
 }
