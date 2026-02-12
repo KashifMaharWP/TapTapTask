@@ -6,8 +6,8 @@
       "description": "Apple iPhone 14 Pro with A16 Bionic chip and Super Retina XDR display.",
       "price": 1099,
       "stock": 42,
-      "category": "smartphones",
-      "thumbnail": "https://images.unsplash.com/photo-1589492477829-5e65395b66cc?q=80&w=387&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      "category": "Electronics",
+      "thumbnail": "https://images.unsplash.com/photo-1589492477829-5e65395b66cc?q=80&w=387&auto=format&fit=crop"
     },
     {
       "id": 2,
@@ -15,8 +15,8 @@
       "description": "Samsung flagship smartphone with Dynamic AMOLED display.",
       "price": 999,
       "stock": 0,
-      "category": "smartphones",
-      "thumbnail": "https://images.unsplash.com/photo-1589492477829-5e65395b66cc?q=80&w=387&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      "category": "Electronics",
+      "thumbnail": "https://images.unsplash.com/photo-1589492477829-5e65395b66cc?q=80&w=387&auto=format&fit=crop"
     },
     {
       "id": 3,
@@ -24,8 +24,8 @@
       "description": "Apple MacBook Pro powered by M2 Pro chip for professionals.",
       "price": 2499,
       "stock": 15,
-      "category": "laptops",
-      "thumbnail": "https://images.unsplash.com/photo-1589492477829-5e65395b66cc?q=80&w=387&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      "category": "Electronics",
+      "thumbnail": "https://images.unsplash.com/photo-1589492477829-5e65395b66cc?q=80&w=387&auto=format&fit=crop"
     },
     {
       "id": 4,
@@ -33,8 +33,8 @@
       "description": "Ultra-thin and powerful laptop with InfinityEdge display.",
       "price": 1399,
       "stock": 27,
-      "category": "laptops",
-      "thumbnail": "https://images.unsplash.com/photo-1589492477829-5e65395b66cc?q=80&w=387&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      "category": "Electronics",
+      "thumbnail": "https://images.unsplash.com/photo-1589492477829-5e65395b66cc?q=80&w=387&auto=format&fit=crop"
     },
     {
       "id": 5,
@@ -42,53 +42,65 @@
       "description": "Industry-leading noise cancelling wireless headphones.",
       "price": 399,
       "stock": 68,
-      "category": "accessories",
-      "thumbnail": "https://images.unsplash.com/photo-1589492477829-5e65395b66cc?q=80&w=387&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      "category": "Electronics",
+      "thumbnail": "https://images.unsplash.com/photo-1589492477829-5e65395b66cc?q=80&w=387&auto=format&fit=crop"
+    },
+
+    {
+      "id": 11,
+      "title": "The Great Gatsby",
+      "description": "Classic novel by F. Scott Fitzgerald.",
+      "price": 15,
+      "stock": 120,
+      "category": "Books",
+      "thumbnail": "https://images.unsplash.com/photo-1589492477829-5e65395b66cc?q=80&w=387&auto=format&fit=crop"
     },
     {
-      "id": 6,
-      "title": "Apple Watch Series 9",
-      "description": "Advanced health tracking and fitness smartwatch.",
+      "id": 12,
+      "title": "1984 by George Orwell",
+      "description": "Dystopian social science fiction novel.",
+      "price": 12,
+      "stock": 80,
+      "category": "Books",
+      "thumbnail": "https://images.unsplash.com/photo-1589492477829-5e65395b66cc?q=80&w=387&auto=format&fit=crop"
+    },
+
+    {
+      "id": 13,
+      "title": "Men's T-Shirt",
+      "description": "Comfortable cotton t-shirt in various colors.",
+      "price": 20,
+      "stock": 200,
+      "category": "Clothing",
+      "thumbnail": "https://images.unsplash.com/photo-1589492477829-5e65395b66cc?q=80&w=387&auto=format&fit=crop"
+    },
+    {
+      "id": 14,
+      "title": "Women's Jeans",
+      "description": "Stylish denim jeans for everyday wear.",
+      "price": 35,
+      "stock": 150,
+      "category": "Clothing",
+      "thumbnail": "https://images.unsplash.com/photo-1589492477829-5e65395b66cc?q=80&w=387&auto=format&fit=crop"
+    },
+
+    {
+      "id": 15,
+      "title": "Wooden Dining Table",
+      "description": "Elegant wooden dining table for 6 people.",
       "price": 499,
-      "stock": 0,
-      "category": "wearables",
-      "thumbnail": "https://images.unsplash.com/photo-1589492477829-5e65395b66cc?q=80&w=387&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      "stock": 20,
+      "category": "Furniture",
+      "thumbnail": "https://images.unsplash.com/photo-1589492477829-5e65395b66cc?q=80&w=387&auto=format&fit=crop"
     },
     {
-      "id": 7,
-      "title": "MacBook Pro 16\"",
-      "description": "Apple MacBook Pro powered by M2 Pro chip for professionals.",
-      "price": 2499,
-      "stock": 15,
-      "category": "laptops",
-      "thumbnail": "https://images.unsplash.com/photo-1589492477829-5e65395b66cc?q=80&w=387&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
-    },
-    {
-      "id": 8,
-      "title": "Dell XPS 13",
-      "description": "Ultra-thin and powerful laptop with InfinityEdge display.",
-      "price": 1399,
-      "stock": 27,
-      "category": "laptops",
-      "thumbnail": "https://images.unsplash.com/photo-1589492477829-5e65395b66cc?q=80&w=387&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
-    },
-    {
-      "id": 9,
-      "title": "Sony WH-1000XM5",
-      "description": "Industry-leading noise cancelling wireless headphones.",
-      "price": 399,
-      "stock": 68,
-      "category": "accessories",
-      "thumbnail": "https://images.unsplash.com/photo-1589492477829-5e65395b66cc?q=80&w=387&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
-    },
-    {
-      "id": 10,
-      "title": "Apple Watch Series 9",
-      "description": "Advanced health tracking and fitness smartwatch.",
-      "price": 499,
-      "stock": 0,
-      "category": "wearables",
-      "thumbnail": "https://images.unsplash.com/photo-1589492477829-5e65395b66cc?q=80&w=387&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      "id": 16,
+      "title": "Office Chair",
+      "description": "Ergonomic office chair for comfort during work.",
+      "price": 199,
+      "stock": 50,
+      "category": "Furniture",
+      "thumbnail": "https://images.unsplash.com/photo-1589492477829-5e65395b66cc?q=80&w=387&auto=format&fit=crop"
     }
   ]
 }
